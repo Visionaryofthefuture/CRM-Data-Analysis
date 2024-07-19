@@ -30,7 +30,8 @@ The analysis is conducted using Google Colab Notebook. Key steps include:
     Exploratory Data Analysis : performing joins on different Dataframe to extract more insights, creating charts to visualise results, etc
     Predictive Modeling 
 
-The results are presented in a PowerPoint presentation.
+The results are presented in a PowerPoint presentation. 
+Link for the same : https://docs.google.com/presentation/d/1XxTbjYkM7f-P3rhRX8dJnpL2V6FJHGfNG3sMaF3keYQ/edit#slide=id.gcb9a0b074_1_0
 
 
 Results
